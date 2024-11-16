@@ -11,7 +11,6 @@
 - 🌐 Мой телеграмм: https://t.me/dgFisher
 
 ## Статистика
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1sher1762&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1sher1762&show_icons=true&hide_title=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1sher1762&layout=compact)

@@ -26,10 +26,8 @@
 ## Статистика
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1sher1762&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1sher1762&show_icons=true&hide_title=true)
-markdown
+[![trophy](https://github-profile-trophy.vercel.app/?username=f1sher1762&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f1sher1762&theme=dark)](https://git.io/streak-stats)
-markdown
-[![trophy](https://github-profile-trophy.vercel.app/?username=f1sher1762&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 

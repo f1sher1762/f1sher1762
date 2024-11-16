@@ -11,4 +11,5 @@
 - 🌐 Мой телеграмм: https://t.me/dgFisher
 
 ## Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexxx&show_icons=true&hide_title=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1sher1762&show_icons=true&hide_title=true)

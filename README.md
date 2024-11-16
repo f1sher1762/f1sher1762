@@ -12,5 +12,6 @@
 
 ## Статистика
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1sher1762&layout=compact)
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=f1sher1762&bg_color=ffffff&color=36d7b7&line=36d7b7&point=36d7b7)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1sher1762&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1sher1762&layout=compact)
+
